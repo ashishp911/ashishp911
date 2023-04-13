@@ -33,5 +33,6 @@ I am currently open to new opportunities and actively seeking software developme
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/ashishpatil911/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;
-<a href="https://leetcode.com/ashishp911/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62334020/231625635-0cb5c05d-1f6d-484a-8064-b6d11aaa988a.svg" width="32" height="32" /></a> </p>
+<a href="https://leetcode.com/ashishp911/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/62334020/231625635-0cb5c05d-1f6d-484a-8064-b6d11aaa988a.svg" width="32" height="32" /></a> &nbsp;
+<a href="https://instagram.com/https://www.instagram.com/ashish__911/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  width="32" height="32" /></a> &nbsp;
 
