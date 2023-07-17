@@ -6,7 +6,7 @@ Hi ![N0 image](https://user-images.githubusercontent.com/18350557/176309783-0785
 ------------------------------------
 As a highly motivated Computer Science graduate from the 🏫 **State University of New York at Buffalo**, I possess strong technical skills in software development, web technologies, and machine learning. With proven experience in developing applications using ReactJS, Python, and cloud platforms, I am well-equipped to tackle complex technical challenges and drive innovation. 
 
-I am currently open to new opportunities and actively seeking software development roles where I can leverage my skills and expertise. With a passion for technology and a commitment to excellence, I am confident that I can make a valuable contribution to any team or organization seeking to push the boundaries of what's possible in the tech industry. Check out my resume 📝 [here](https://github.com/ashishp911/ashishp911/files/11773548/Ashish.Patil.Resume.o3.pdf)
+I am currently open to new opportunities and actively seeking software development roles where I can leverage my skills and expertise. With a passion for technology and a commitment to excellence, I am confident that I can make a valuable contribution to any team or organization seeking to push the boundaries of what's possible in the tech industry. Check out my resume 📝 [here](https://github.com/ashishp911/ashishp911/files/12071123/Ashish.Patil.Resume.o3.pdf)
 
 - 📫 How to reach me **ashish.patil35@gmail.com**
 
